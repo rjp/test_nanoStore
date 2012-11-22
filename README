@@ -1,0 +1,6 @@
+Trivial test project for NanoStoreInMotion
+
+Since my projects generally aren't vitally reliant on database speed, using something
+like NanoStore (via NanoStoreInMotion) simplifies ORM-style access without having to
+go down into CoreData hell or hand-rolling SQLite schemas and queries.
+
